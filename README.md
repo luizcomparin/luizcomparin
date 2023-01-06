@@ -6,7 +6,7 @@
 
 ### 🛠 Eu programo com
 
-![Angular.io](https://img.shields.io/badge/-Angular.io-05122A?&logo=angular)
+![Angular.io](https://img.shields.io/badge/-Angular.io-05122A?&logo=angular&logoColor=dd0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 
@@ -14,6 +14,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 
 #### E tenho conhecimento básico em
 
