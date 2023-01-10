@@ -27,7 +27,7 @@
 
 ---
 
-## Contate-me
+## Meus contatos
 
 <p id="socialIcons" align="left">
     <a href="mailto:luizcomparin18@gmail.com">
