@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Meu nome é **Luiz**, tenho 22 anos e sou um programador Junior a procura de emprego. Fluente em inglês. 
+- 🔭 Meu nome é **Luiz**, tenho 22 anos e sou um programador Junior à procura do primeiro emprego. Fluente em inglês. 
 - 🌱 Atualmente me aprofundando na stack MEAN (MongoDB, Express, Angular & NodeJs).
 - 📚 Sou autodidata, estou disposto a aprender a stack que for necessária.
 
