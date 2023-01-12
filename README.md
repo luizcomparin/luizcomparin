@@ -22,8 +22,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 
-![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+<!-- ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL) -->
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 
 ---
 
