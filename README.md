@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🔭 My name is Luiz. I am a 22-year-old Brazilian Junior Angular developer seeking my first professional opportunity.
-- 🌱 As of 2022 and still today, I am fully immersed in the MEAN stack, specifically studying MongoDB, Express, Angular, and Node.js. However, I am confident in my ability to adapt and learn any technology stack required for the job.
+- 🌱 As of Q4 2022 and still today, I am fully immersed in the MEAN stack, specifically studying MongoDB, Express, Angular, and Node.js. However, I am confident in my ability to adapt and learn any technology stack required for the job.
 - 📚 As a self-taught developer, I am committed to continuously learning and expanding my skillset. Also, I am fluent in both written and spoken English.
 
 
