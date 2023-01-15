@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello world 👋
 
-- 🔭 Meu nome é **Luiz**, tenho 22 anos e sou um programador Junior à procura do primeiro emprego. Fluente em inglês. 
-- 🌱 Atualmente me aprofundando na stack MEAN (MongoDB, Express, Angular & NodeJs).
-- 📚 Sou autodidata, estou disposto a aprender a stack que for necessária.
+- 🔭 My name is Luiz. I am a 22-year-old Brazilian Junior Angular developer seeking my first professional opportunity.
+- 🌱 Currently, I am fully immersed in the MEAN stack, specifically working with MongoDB, Express, Angular, and Node.js. However, I am confident in my ability to adapt and learn any technology stack required for the job.
+- 📚 As a self-taught developer, I am committed to continuously learning and expanding my skillset. Also, I am fluent in both written and spoken English.
 
-### 🛠 Eu programo com
+
+### 🛠 I code with
 
 ![Angular.io](https://img.shields.io/badge/-Angular.io-05122A?&logo=angular&logoColor=dd0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
@@ -16,7 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 
-#### E tenho conhecimento básico em
+#### And have basic knowledge of
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
@@ -27,7 +28,7 @@
 
 ---
 
-## Meus contatos
+## My contact
 
 <p id="socialIcons" align="left">
     <a href="mailto:luizcomparin18@gmail.com">
