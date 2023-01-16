@@ -33,6 +33,6 @@
 <p id="socialIcons" align="left">
     <a href="mailto:luizcomparin18@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/luizcomparin18-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="www.linkedin.com/in/luiz-carlos-comparin/" alt="LinkedIn">
+    <a href="http://www.linkedin.com/in/luiz-carlos-comparin/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LuizComparin-blue?style=flat-square&logo=linkedin" /></a>
 </p>
