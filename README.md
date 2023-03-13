@@ -7,7 +7,7 @@
 
 ### 🛠 I code with
 
-![Angular](https://img.shields.io/badge/-Angular.io-05122A?&logo=angular&logoColor=dd0031)
+![Angular](https://img.shields.io/badge/-Angular-05122A?&logo=angular&logoColor=dd0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
