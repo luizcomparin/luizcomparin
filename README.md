@@ -1,13 +1,14 @@
 ### Hello world 👋
 
-- 🔭 My name is Luiz. I am a 22-year-old Brazilian Junior Angular developer seeking my first professional opportunity.
-- 🌱 Currently, I am fully immersed in the MEAN stack, specifically working with MongoDB, Express, Angular, and Node.js. However, I am confident in my ability to adapt and learn any technology stack required for the job.
-- 📚 As a self-taught developer, I am committed to continuously learning and expanding my skillset. Also, I am fluent in both written and spoken English.
+- 🔭 My name is Luiz. I'm a 22-year-old front-end developer.
+- 🌱 I am passionate of Svelte and have a deep knowledge of Angular and RxJS. 
+- 📚 As a self-taught developer, I'm confident in my ability to adapt and learn any technology stack required for the job. Also, I am fluent in both written and spoken English.
 
 
-### 🛠 I code with
+### 🛠 I'm proficient with
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?&logo=angular&logoColor=dd0031)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?&logo=svelte&logoColor=ff4700)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
@@ -20,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 
-#### And have basic knowledge of
+#### And have fundamental knowledge of
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
