@@ -1,8 +1,8 @@
-### Hello world 👋
+### Hello reader 👋
 
-- 🔭 My name is Luiz. I'm a 22-year-old front-end developer.
-- 🌱 I am passionate of Svelte and have a deep knowledge of Angular and RxJS. 
-- 📚 As a self-taught developer, I'm confident in my ability to adapt and learn any technology stack required for the job. Also, I am fluent in both written and spoken English.
+- 🔭 My name is Luiz. I'm a 22-year-old web full-stack developer.
+- 🌱 I am passionate of SvelteKit and have a deep knowledge of Angular and RxJS. 
+- 📚 As a self-taught developer, I'm confident in my ability to adapt to and learn any technology stack required for the job. Also, I am fluent in both written and spoken English.
 
 
 ### 🛠 I'm proficient with
@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 
-#### And have fundamental knowledge of
+#### And have knowledge of
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
