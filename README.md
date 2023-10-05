@@ -29,7 +29,7 @@
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?&logo=CSharp&logoColor=8d0579)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core/MVC-05122A?&logo=dotnet)
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
+<!-- ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c) -->
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
