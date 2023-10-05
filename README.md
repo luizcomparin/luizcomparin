@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 My name is Luiz. I'm a 22-year-old full-stack web developer.
+- 🔭 My name is Luiz. I'm a 22-year-old full-stack software developer.
 - 🌱 I am specialized in WEB development. Implementing new features and giving support in the front-end and back-end APIs.
 - 📚 As a self-taught developer, I'm extremely confident in my ability to adapt to and learn any technology stack required for the job. I'm also fluent in English.
 
@@ -27,11 +27,12 @@
 
 #### And have decent knowledge of
 
-![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-05122A?&logo=Flask)
-![PHP](https://img.shields.io/badge/-PHP-05122A?&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?&logo=Laravel)
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?&logo=CSharp&logoColor=8d0579)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core/MVC-05122A?&logo=dotnet)
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
 <!-- ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL) -->
 
 
