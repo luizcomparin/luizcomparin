@@ -17,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=tailwindcss)
 
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
@@ -24,6 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?&logo=insomnia&logoColor=7800ff)
 
 #### And have decent knowledge of
 
