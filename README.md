@@ -1,12 +1,11 @@
 ### Hello 👋
 
-- 🔭 My name is Luiz. I'm a 22-year-old full-stack software developer.
-- 🌱 I am specialized in WEB development. Implementing new features and giving support in the front-end and back-end APIs.
-- 📚 As a self-taught developer, I'm extremely confident in my ability to adapt to and learn any technology stack required for the job. I'm also fluent in English.
+My name is Luiz Carlos Comparin. I'm a 22 years old brazilian software developer, engaged full-time with programming. <br>
+I'm currently developing SaaS using TypeScript, Angular and Nest.js.
 
 
-### 🛠 I'm proficient with
-
+### ♨ I'm proficient with
+![Frontend](https://img.shields.io/badge/-Frontend-5151ff?&logo=Frontend)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?&logo=angular&logoColor=dd0031)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-05122A?&logo=nextdotjs)
@@ -17,11 +16,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=tailwindcss)
 
+![Backend](https://img.shields.io/badge/-Backend-5151ff?&logo=Backend)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
+![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-05122A?style=flat&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 
+![Tools](https://img.shields.io/badge/-Tools­-5151ff?&logo=Tools)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
