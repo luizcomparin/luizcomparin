@@ -1,7 +1,7 @@
 ### Hello 👋
 
 My name is Luiz Carlos Comparin. I'm a 22 years old brazilian software developer, engaged full-time with programming. <br>
-I'm currently developing SaaS using TypeScript, Angular and Nest.js.
+I'm currently developing a SaaS using TypeScript, Angular and Nest.js.
 
 
 ### ♨ I'm proficient with
