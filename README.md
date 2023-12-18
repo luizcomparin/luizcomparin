@@ -1,7 +1,7 @@
 ### Hello 👋
 
-My name is Luiz Carlos Comparin. I'm a 22 years old brazilian software developer with ample development experience in the web environment. <br>
-I'm temporarily engaged full-time in developing a SaaS using TypeScript, Angular and Nest.js.
+My name is Luiz Carlos Comparin. I'm a 22 years old brazilian software developer with ample development experience in the web environment, developing backend APIs and frontend applications. <br>
+My main stacks are JavaScript, Node.js, TypeScript, Nest.js, Angular and React.
 
 
 ### ♨ I'm proficient with
@@ -32,10 +32,11 @@ I'm temporarily engaged full-time in developing a SaaS using TypeScript, Angular
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?&logo=insomnia&logoColor=7800ff)
 
-#### And have decent knowledge of
+#### I also have experience with
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?&logo=CSharp&logoColor=8d0579)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core/MVC-05122A?&logo=dotnet)
+![Electron](https://img.shields.io/badge/-Electron.js-05122A?&logo=Electron)
 <!-- ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c) -->
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
@@ -45,11 +46,22 @@ I'm temporarily engaged full-time in developing a SaaS using TypeScript, Angular
 
 ---
 
-## My contact
+## Contact and other links
 
 <p id="socialIcons" align="left">
-    <a href="mailto:luizcomparin18@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/luizcomparin18-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="http://www.linkedin.com/in/luiz-carlos-comparin/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LuizComparin-blue?style=flat-square&logo=linkedin" /></a>
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn | Luiz Comparin-05122A?style=flat&logo=Linkedin" />
+    </a>
+    <br>
+    <a href="https://linktr.ee/luizcomparin" alt="Linktree">
+        <img alt="Linktree" src="https://img.shields.io/badge/Linktree | Luiz Comparin-05122A?style=flat&logo=Linktree" />
+    </a>
+    <br>
+    <a href="mailto:luizcomparin18@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Gmail | Luiz Comparin-05122A?style=flat&logo=Gmail" />
+    </a>
+    <br>
+    <a href="https://whatsa.me/5547992831801" alt="Whatsapp">
+        <img alt="whatsapp" src="https://img.shields.io/badge/+55(47)992831801 | Luiz Comparin-05122A?style=flat&logo=whatsapp" />
+    </a>
 </p>
