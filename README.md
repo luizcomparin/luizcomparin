@@ -12,9 +12,9 @@ My main stacks are JavaScript, Node.js, TypeScript, Nest.js, Angular and React.
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?&logo=svelte&logoColor=ff4700)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
 
 ![Backend](https://img.shields.io/badge/-Backend-5151ff?&logo=Backend)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
@@ -24,7 +24,6 @@ My main stacks are JavaScript, Node.js, TypeScript, Nest.js, Angular and React.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-05122A?style=flat&logo=googlecloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 
 ![Tools](https://img.shields.io/badge/-Tools­-5151ff?&logo=Tools)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -41,6 +40,7 @@ My main stacks are JavaScript, Node.js, TypeScript, Nest.js, Angular and React.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 <!-- ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL) -->
 
 
