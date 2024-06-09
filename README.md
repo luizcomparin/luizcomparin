@@ -1,7 +1,7 @@
-### Hello 👋
+### Hi! 👋
 
-My name is Luiz Carlos Comparin. I'm a 22 years old brazilian software developer with ample development experience in the web environment, developing backend APIs and frontend applications. <br>
-My main stacks are JavaScript, Node.js, TypeScript, Nest.js, Angular and React.
+I'm Luiz Carlos Comparin, a brazilian software developer with 3+ years of experience in the web environment, developing frontend applications and backend APIs. <br>
+My main stacks are TypeScript, JavaScript, Node.js, Nest.js and Angular 2+.
 
 
 ### ♨ I'm proficient with
