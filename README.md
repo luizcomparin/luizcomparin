@@ -9,38 +9,42 @@ My main stacks are TypeScript, JavaScript, Node.js, Nest.js and Angular 2+.
 ![Angular](https://img.shields.io/badge/-Angular-05122A?&logo=angular&logoColor=dd0031)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-05122A?&logo=nextdotjs)
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?&logo=svelte&logoColor=ff4700)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?&logo=svelte&logoColor=ff4700)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=tailwindcss)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
+![Electron](https://img.shields.io/badge/-Electron.js-05122A?&logo=Electron)
 
 ![Backend](https://img.shields.io/badge/-Backend-5151ff?&logo=Backend)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-05122A?style=flat&logo=googlecloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2305122A.svg?logo=cshrp&logoColor=white)](#)
+
+![Database](https://img.shields.io/badge/-Database-5151ff?&logo=Backend)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+[![Supabase](https://img.shields.io/badge/Supabase-05122A?logo=supabase&logoColor=fff)](#)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-05122A?logo=mssqlserver-white&logoColor=white)](#)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core/MVC-05122A?&logo=dotnet)
+
 
 ![Tools](https://img.shields.io/badge/-Tools­-5151ff?&logo=Tools)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=vsc&logoColor=white)](#)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?&logo=insomnia&logoColor=7800ff)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 
-#### I also have experience with
+### My main public projects
 
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?&logo=CSharp&logoColor=8d0579)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core/MVC-05122A?&logo=dotnet)
-![Electron](https://img.shields.io/badge/-Electron.js-05122A?&logo=Electron)
 <!-- ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?&logo=nestjs&logoColor=d9224c) -->
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 <!-- ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL) -->
 
 
@@ -50,18 +54,13 @@ My main stacks are TypeScript, JavaScript, Node.js, Nest.js and Angular 2+.
 
 <p id="socialIcons" align="left">
     <a href="http://www.linkedin.com/in/luiz-carlos-comparin/" alt="LinkedIn">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn | Luiz Comparin-05122A?style=flat&logo=Linkedin" />
+        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn | Luiz Carlos Comparin-0A66C2?logo=linkedin-white&logoColor=fff" />
     </a>
-    <br>
-    <a href="https://linktr.ee/luizcomparin" alt="Linktree">
+    <!-- <br> -->
+    <!-- <a href="https://linktr.ee/luizcomparin" alt="Linktree">
         <img alt="Linktree" src="https://img.shields.io/badge/Linktree | Luiz Comparin-05122A?style=flat&logo=Linktree" />
-    </a>
-    <br>
+    </a> -->
     <a href="mailto:luizcomparin18@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Gmail | Luiz Comparin-05122A?style=flat&logo=Gmail" />
-    </a>
-    <br>
-    <a href="https://whatsa.me/5547992831801" alt="Whatsapp">
-        <img alt="whatsapp" src="https://img.shields.io/badge/+55(47)992831801 | Luiz Comparin-05122A?style=flat&logo=whatsapp" />
+        <img alt="Email" src="https://img.shields.io/badge/Gmail | luizcomparin18@gmail.com-05122A?style=flat&logo=Gmail" />
     </a>
 </p>
