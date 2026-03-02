@@ -1,7 +1,7 @@
 ### Hi! 👋
 
-I'm Luiz Carlos Comparin, a brazilian software developer with 3+ years of experience in the web environment, developing frontend applications and backend APIs. <br>
-My main stacks are Angular, Nest.js, TypeScript, JavaScript, Node.js.
+My name is Luiz Carlos Comparin, I'm a brazilian full-stack software developer with 3+ years of experience in the web environment, developing fullstack applications and APIs.<br>
+My main stacks are Angular, Nest.js, TypeScript, JavaScript, Node.js, PostgreSQL, MongoDB.
 
 
 ### ♨ I'm proficient with
@@ -11,6 +11,7 @@ My main stacks are Angular, Nest.js, TypeScript, JavaScript, Node.js.
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=Flutter)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?&logo=svelte&logoColor=ff4700)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=tailwindcss)
 [![CSS](https://img.shields.io/badge/CSS3-05122A?logo=css&logoColor=fff)](#)
@@ -42,9 +43,11 @@ My main stacks are Angular, Nest.js, TypeScript, JavaScript, Node.js.
 ![Tools](https://img.shields.io/badge/-Tools­-5151ff?&logo=Tools)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
+![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=e95723)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?&logo=insomnia&logoColor=7800ff)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=vsc&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-05122A?logo=swagger&logoColor=173647)](#)
 
 ### 🗂️ My main public projects
 
